@@ -19,7 +19,7 @@ Projeto desenvolvido para fins de treinamento em ReactJs.
 
 ### `Screens`
 
-<img src="https://github.com/rafaelbatistaroque/projeto-treinamento-um-react-js/blob/master/src/img/ContatoDesktop.PNG" style="width: 300px;"/>
-<img src="https://github.com/rafaelbatistaroque/projeto-treinamento-um-react-js/blob/master/src/img/HomeDesktop.PNG" style="width: 300px;"/>
-<img src="https://github.com/rafaelbatistaroque/projeto-treinamento-um-react-js/blob/master/src/img/ScreenShotMobileUm.jpg" style="width: 200px;">
-<img src="https://github.com/rafaelbatistaroque/projeto-treinamento-um-react-js/blob/master/src/img/ScreenShotMobileDois.jpg" style="width: 200px;"/>
+<img src="https://github.com/rafaelbatistaroque/projeto-treinamento-um-react-js/blob/master/src/img/ContatoDesktop.PNG" width="300"/>
+<img src="https://github.com/rafaelbatistaroque/projeto-treinamento-um-react-js/blob/master/src/img/HomeDesktop.PNG" width="300"/>
+<img src="https://github.com/rafaelbatistaroque/projeto-treinamento-um-react-js/blob/master/src/img/ScreenShotMobileUm.jpg" width="200">
+<img src="https://github.com/rafaelbatistaroque/projeto-treinamento-um-react-js/blob/master/src/img/ScreenShotMobileDois.jpg" width="200"/>
