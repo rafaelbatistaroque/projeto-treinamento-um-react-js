@@ -2,10 +2,10 @@ import React from "react";
 
 const Head = (props) => {
   React.useEffect(() => {
-    document.title = props.title;
+    document.title = props.titulo;
     document
-      .querySelector("meta[name='description']")
-      .setAttribute("content", props.description);
+      .querySelector("meta[name='descricao']")
+      .setAttribute("content", props.descricao);
   }, [props]);
 
   return <></>;

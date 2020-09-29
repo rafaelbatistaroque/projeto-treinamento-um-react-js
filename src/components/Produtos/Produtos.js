@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import Head from "../Head/Head";
 import styles from "./Produtos.module.css";
 
 const Produtos = () => {
@@ -14,6 +15,7 @@ const Produtos = () => {
   if (produtos === null) return null;
   return (
     <section className={`${styles.produtos} animarDaEsquerda`}>
+      <Head titulo="React | Produtos" descricao="React | Produtos" />
       {produtos.map((produto) => (
         <Link to={`produto/${produto.id}`} key={produto.id}>
           <h1 className={styles.nomeProduto}>{produto.nome}</h1>
