@@ -1,0 +1,17 @@
+.produtos{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+
+.nomeProduto{
+  margin: .5rem 0;
+}
+
+@media (max-width: 792px){
+  .produtos{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+  }
+}
