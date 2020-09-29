@@ -19,4 +19,6 @@ Projeto desenvolvido para fins de treinamento em ReactJs.
 
 ### `Screens`
 
-<img src="https://github.com/rafaelbatistaroque/projeto-treinamento-um-react-js/blob/master/src/img/ContatoDesktop.PNG" width="500"/> <img src="https://github.com/rafaelbatistaroque/projeto-treinamento-um-react-js/blob/master/src/img/HomeDesktop.PNG" width="500"/> <img src="https://github.com/rafaelbatistaroque/projeto-treinamento-um-react-js/blob/master/src/img/ScreenShotMobileUm.jpg" width="300"> <img src="https://github.com/rafaelbatistaroque/projeto-treinamento-um-react-js/blob/master/src/img/ScreenShotMobileDois.jpg" width="300"/>
+<img src="https://github.com/rafaelbatistaroque/projeto-treinamento-um-react-js/blob/master/src/img/ContatoDesktop.PNG" width="500"/>
+<img src="https://github.com/rafaelbatistaroque/projeto-treinamento-um-react-js/blob/master/src/img/HomeDesktop.PNG" width="500"/>
+<img src="https://github.com/rafaelbatistaroque/projeto-treinamento-um-react-js/blob/master/src/img/ScreenShotMobileUm.jpg" width="300"> <img src="https://github.com/rafaelbatistaroque/projeto-treinamento-um-react-js/blob/master/src/img/ScreenShotMobileDois.jpg" width="300"/>
