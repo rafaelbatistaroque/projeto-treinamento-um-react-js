@@ -7,12 +7,10 @@ Projeto desenvolvido para fins de treinamento em ReactJs.
 
 ### `Screens`
 
-<img src="https://github.com/rafaelbatistaroque/projeto-treinamento-um-react-js/blob/master/src/img/ContatoDesktop.PNG" style="width: 50%">
-<img src="https://github.com/rafaelbatistaroque/projeto-treinamento-um-react-js/blob/master/src/img/HomeDesktop.PNG" style="width: 50%">
-<img src="https://github.com/rafaelbatistaroque/projeto-treinamento-um-react-js/blob/master/src/img/ScreenShotMobileUm.jpg" style=" max-width: 50%;
-  border-radius: .5rem;">
-<img src="https://github.com/rafaelbatistaroque/projeto-treinamento-um-react-js/blob/master/src/img/ScreenShotMobileDois.jpg" style=" max-width: 50%;
-  border-radius: .5rem;">
+<img src="https://github.com/rafaelbatistaroque/projeto-treinamento-um-react-js/blob/master/src/img/ContatoDesktop.PNG" style="max-width: 100%;">
+<img src="https://github.com/rafaelbatistaroque/projeto-treinamento-um-react-js/blob/master/src/img/HomeDesktop.PNG" style="max-width: 100%;">
+<img src="https://github.com/rafaelbatistaroque/projeto-treinamento-um-react-js/blob/master/src/img/ScreenShotMobileUm.jpg" style="max-width: 20%;">
+<img src="https://github.com/rafaelbatistaroque/projeto-treinamento-um-react-js/blob/master/src/img/ScreenShotMobileDois.jpg" style="max-width: 20%;">
 
 ### `Caracteristicas`
 
